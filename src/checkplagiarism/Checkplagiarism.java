@@ -41,7 +41,7 @@ public class Checkplagiarism {
       x.add(word);
     
     }
-        while (input2.hasNext()) {
+     while (input2.hasNext()) {
       String word  = input2.next();
       y.add(word);
     
